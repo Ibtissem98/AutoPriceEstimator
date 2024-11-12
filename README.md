@@ -32,7 +32,9 @@ Conclusion
 Le modèle de régression Ridge avec régularisation a montré des résultats prometteurs, 
 bien que des améliorations puissent encore être apportées, notamment en ajoutant 
 davantage de caractéristiques ou en optimisant les techniques de modélisation.
+
 Technologies utilisées
+
 • Python
 • pandas
 • scikit-learn
